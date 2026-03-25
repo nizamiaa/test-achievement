@@ -8,4 +8,4 @@ Test achievement #3
 
 Test Pair Extraordinaire
 
-Pair Extraordinaire test
+Pair Extraordinaire tests
